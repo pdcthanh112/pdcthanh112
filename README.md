@@ -26,6 +26,7 @@
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=47A248" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=47A248" alt="MySQL logo" title="MySQL" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>&nbsp;
@@ -57,10 +58,11 @@
 <span><img src="https://img.shields.io/badge/Eclipse IDE-282C34?logo=eclipseide&logoColor=2C2255" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/IntelliJ IDEA-282C34?logo=intelliJIDEA&logoColor=4B32C3" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Android Studio-282C34?logo=androidstudio&logoColor=#3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/RStudio-282C34?logo=rstudio&logoColor=75AADB" alt="RStudio logo" title="RStudio" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab" height="25" /></span>&nbsp;
-
+<span><img src="https://img.shields.io/badge/RStudio-282C34?logo=rstudio&logoColor=75AADB" alt="RStudio logo" title="RStudio" height="25" /></span>&nbsp;<br/>
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Jira Software-282C34?logo=ijrasoftware&logoColor=0052CC" alt="Jira Software logo" title="Jira Software" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
