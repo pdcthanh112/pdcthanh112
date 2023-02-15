@@ -7,12 +7,6 @@
 <br>
 <!-- https://simpleicons.org/ -->
 
-
-
-<img src="https://skillicons.dev/icons?i=vim" title="assafsf"/>asfsdfsa
-
-
-
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=##0690FA" alt="C logo" title="C" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=cpp&logoColor=##A100FF" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
@@ -22,7 +16,7 @@
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>&nbsp;
 <br/>
-<span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftsqlserver&logoColor=47A248" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=47A248" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=47A248" alt="MySQL logo" title="MySQL" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>&nbsp;
 
@@ -34,7 +28,7 @@
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/MicrosoftAzure-282C34?logo=microsoftazure&logoColor=#0078D4" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/AmazonAWS-282C34?logo=amazonaws&logoColor=#FF9900" alt="AWS logo" title="AWS" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=#FF9900" alt="AWS logo" title="AWS" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/DigitalOcean-282C34?logo=digitalocean&logoColor=#FF9900" alt="Digital Ocean logo" title="Digital Ocean" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=#00C7B7" alt="Netlify logo" title="Netlify" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>&nbsp;
