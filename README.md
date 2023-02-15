@@ -18,8 +18,10 @@
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>&nbsp;
 <br/>
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=Jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>&nbsp;<br/>
-<span><img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=276DC3" alt="R logo" title="R" height="25" /></span>&nbsp;</br>
+<span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=Jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" alt="Go logo" title="Go" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=276DC3" alt="R logo" title="R" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=47A248" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=47A248" alt="MySQL logo" title="MySQL" height="25" /></span>&nbsp;
@@ -55,7 +57,7 @@
 <span><img src="https://img.shields.io/badge/Eclipse IDE-282C34?logo=eclipseide&logoColor=2C2255" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/IntelliJ IDEA-282C34?logo=intelliJIDEA&logoColor=4B32C3" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Android Studio-282C34?logo=androidstudio&logoColor=#3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/RStudio-282C34?logo=rstudio&logoColor=75AADB" alt="RStudio logo" title="RStudio" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab" height="25" /></span>&nbsp;
 
