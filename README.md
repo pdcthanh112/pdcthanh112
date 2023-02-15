@@ -16,7 +16,9 @@
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>&nbsp;
-<br/>
+<span><img src="https://img.shields.io/badge/RestAPI-282C34?logo=fastapi&logoColor=13AFF0" alt="RestAPI logo" title="RestAPI" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphQL&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /></span>&nbsp;<br/>
+
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=Jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" alt="Go logo" title="Go" height="25" /></span>&nbsp;
