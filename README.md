@@ -7,12 +7,6 @@
 <br>
 <!-- https://simpleicons.org/ -->
 
-
-
-<img src="https://skillicons.dev/icons?i=vim" title="assafsf"/>asfsdfsa
-
-
-
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=##0690FA" alt="C logo" title="C" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=cpp&logoColor=##A100FF" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
