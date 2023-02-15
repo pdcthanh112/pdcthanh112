@@ -8,8 +8,15 @@
 <!-- https://simpleicons.org/ -->
 
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=FF7A00" alt="Java logo" title="Java" height="25" /></span>&nbsp;<br/>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=C++&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/>
+
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=FF7A00" alt="Java logo" title="Java" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Hibernate-282C34?logo=hibernate&logoColor=59666C" alt="Hibernate logo" title="Hibernate" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" alt="Spring logo" title="Spring" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Spring Boot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Spring Sercurity-282C34?logo=springsercurity&logoColor=6DB33F" alt="Spring Sercurity logo" title="Spring Sercurity" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Apache Maven-282C34?logo=apachemaven&logoColor=C71A36" alt="Apache Maven logo" title="Apache Maven" height="25" /></span>&nbsp;<br/>
+
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>&nbsp;
@@ -46,10 +53,12 @@
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Microservice-282C34?logo=amazonecs&logoColor=#DC382D" alt="Microservice logo" title="Microservice" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitMQ&logoColor=FF6600" alt="RabbitMQ logo" title="RabbitMQ" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/Vim-282C34?logo=vim&logoColor=019733" alt="Vim logo" title="Vim" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/NeoVim-282C34?logo=neovim&logoColor=#57A143" alt="NeoVim logo" title="NeoVim" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Emacs-282C34?logo=gnuemacs&logoColor=F05032" alt="Emacs logo" title="Emacs" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex&logoColor=008080" alt="LaTeX logo" title="LaTeX" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /></span>&nbsp;
@@ -63,7 +72,8 @@
 <span><img src="https://img.shields.io/badge/RStudio-282C34?logo=rstudio&logoColor=75AADB" alt="RStudio logo" title="RStudio" height="25" /></span>&nbsp;<br/>
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Jira Software-282C34?logo=ijrasoftware&logoColor=0052CC" alt="Jira Software logo" title="Jira Software" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Jira Software-282C34?logo=jirasoftware&logoColor=0052CC" alt="Jira Software logo" title="Jira Software" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Jenkins-282C34?logo=J=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>&nbsp;
 
 <br>
