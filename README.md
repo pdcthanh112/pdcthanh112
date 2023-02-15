@@ -7,8 +7,8 @@
 <br>
 <!-- https://simpleicons.org/ -->
 
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=0690FA" alt="C logo" title="C" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=cpp&logoColor=A100FF" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=FF7A00" alt="Java logo" title="Java" height="25" /></span>&nbsp;<br/>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>&nbsp;
@@ -40,7 +40,11 @@
 
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Microservice-282C34?logo=amazonecs&logoColor=#DC382D" alt="Microservice logo" title="Microservice" height="25" /></span>&nbsp;
 
+<span><img src="https://img.shields.io/badge/Vim-282C34?logo=vim&logoColor=#019733" alt="Vim logo" title="Vim" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/NeoVim-282C34?logo=neovim&logoColor=#57A143" alt="NeoVim logo" title="NeoVim" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Emacs-282C34?logo=gnuemacs&logoColor=F05032" alt="Emacs logo" title="Emacs" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>&nbsp;
