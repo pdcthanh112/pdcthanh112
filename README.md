@@ -7,9 +7,9 @@
 <br>
 <!-- https://simpleicons.org/ -->
 
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#0690FA" alt="C logo" title="C" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=cpp&logoColor=#A100FF" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=#FF7A00" alt="Java logo" title="Java" height="25" /></span>&nbsp;<br/>
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=0690FA" alt="C logo" title="C" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=cpp&logoColor=A100FF" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=FF7A00" alt="Java logo" title="Java" height="25" /></span>&nbsp;<br/>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>&nbsp;
@@ -17,14 +17,14 @@
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>&nbsp;
 <br/>
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=Jupyter&logoColor=#F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>&nbsp;<br/>
-<span><img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=#276DC3" alt="R logo" title="R" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=Jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>&nbsp;<br/>
+<span><img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=276DC3" alt="R logo" title="R" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=47A248" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=47A248" alt="MySQL logo" title="MySQL" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=#DC382D" alt="Redis logo" title="Redis" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>&nbsp;
@@ -32,14 +32,14 @@
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>&nbsp;
 
-<span><img src="https://img.shields.io/badge/Microsoft Azure-282C34?logo=microsoftazure&logoColor=#0078D4" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=#FF9900" alt="AWS logo" title="AWS" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Digital Ocean-282C34?logo=digitalocean&logoColor=#FF9900" alt="Digital Ocean logo" title="Digital Ocean" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=#00C7B7" alt="Netlify logo" title="Netlify" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft Azure-282C34?logo=microsoftazure&logoColor=0078D4" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FF9900" alt="AWS logo" title="AWS" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Digital Ocean-282C34?logo=digitalocean&logoColor=FF9900" alt="Digital Ocean logo" title="Digital Ocean" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" alt="Netlify logo" title="Netlify" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>&nbsp;
 
-<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=##2496ED" alt="Docker logo" title="Docker" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=#326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>&nbsp;
 
 
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>&nbsp;
