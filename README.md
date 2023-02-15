@@ -19,7 +19,7 @@
 <br/>
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=Jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>&nbsp;<br/>
-<span><img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=276DC3" alt="R logo" title="R" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=276DC3" alt="R logo" title="R" height="25" /></span>&nbsp;</br>
 
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=47A248" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=47A248" alt="MySQL logo" title="MySQL" height="25" /></span>&nbsp;
@@ -42,11 +42,14 @@
 <span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Microservice-282C34?logo=amazonecs&logoColor=#DC382D" alt="Microservice logo" title="Microservice" height="25" /></span>&nbsp;
 
-<span><img src="https://img.shields.io/badge/Vim-282C34?logo=vim&logoColor=#019733" alt="Vim logo" title="Vim" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Vim-282C34?logo=vim&logoColor=019733" alt="Vim logo" title="Vim" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/NeoVim-282C34?logo=neovim&logoColor=#57A143" alt="NeoVim logo" title="NeoVim" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Emacs-282C34?logo=gnuemacs&logoColor=F05032" alt="Emacs logo" title="Emacs" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab" height="25" /></span>&nbsp;
+
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>&nbsp;
 
 
