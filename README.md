@@ -7,9 +7,9 @@
 <br>
 <!-- https://simpleicons.org/ -->
 
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=##0690FA" alt="C logo" title="C" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=cpp&logoColor=##A100FF" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/>
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=##A100FF" alt="Java logo" title="Java" height="25" /></span>&nbsp;<br/>
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#0690FA" alt="C logo" title="C" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=cpp&logoColor=#A100FF" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=#FF7A00" alt="Java logo" title="Java" height="25" /></span>&nbsp;<br/>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>&nbsp;
@@ -17,6 +17,8 @@
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>&nbsp;
 <br/>
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>&nbsp;
+
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=47A248" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=47A248" alt="MySQL logo" title="MySQL" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>&nbsp;
