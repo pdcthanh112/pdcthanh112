@@ -9,6 +9,7 @@
 
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=##0690FA" alt="C logo" title="C" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=cpp&logoColor=##A100FF" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=##A100FF" alt="Java logo" title="Java" height="25" /></span>&nbsp;<br/>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>&nbsp;
@@ -19,6 +20,7 @@
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=47A248" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=47A248" alt="MySQL logo" title="MySQL" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=#DC382D" alt="Redis logo" title="Redis" height="25" /></span>&nbsp;
 
 
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>&nbsp;
@@ -32,6 +34,10 @@
 <span><img src="https://img.shields.io/badge/Digital Ocean-282C34?logo=digitalocean&logoColor=#FF9900" alt="Digital Ocean logo" title="Digital Ocean" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=#00C7B7" alt="Netlify logo" title="Netlify" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>&nbsp;
+
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=##2496ED" alt="Docker logo" title="Docker" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=#326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>&nbsp;
+
 
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>&nbsp;
