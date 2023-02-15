@@ -7,9 +7,10 @@
 <br>
 <!-- https://simpleicons.org/ -->
 <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
 
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=47A248" alt="C logo" title="C" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=47A248" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/>
+<span><img src="https://img.shields.io/badge/Cpp-282C34?logo=cpp&logoColor=47A248" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>&nbsp;
