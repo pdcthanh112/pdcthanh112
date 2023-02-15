@@ -6,8 +6,17 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#A8B9CC" alt="C logo" title="C" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=cpp&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim" title="assafsf"/>
+  </a>
+</p>
+
+
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=##0690FA" alt="C logo" title="C" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=cpp&logoColor=##A100FF" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>&nbsp;
@@ -26,12 +35,14 @@
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>&nbsp;
 
-<span><img src="https://img.shields.io/badge/MicrosoftAzure-282C34?logo=microsoftazure&logoColor=F05032" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" /></span>&nbsp;
-
+<span><img src="https://img.shields.io/badge/MicrosoftAzure-282C34?logo=microsoftazure&logoColor=#0078D4" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/AWS-282C34?logo=aws&logoColor=#FF9900" alt="AWS logo" title="AWS" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/DigitalOcean-282C34?logo=digitalocean&logoColor=#FF9900" alt="DigitalOcean logo" title="DigitalOcean" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>&nbsp;
+
 
 
 <br>
