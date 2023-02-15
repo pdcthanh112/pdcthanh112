@@ -6,6 +6,8 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=47A248" alt="C logo" title="C" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=47A248" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
