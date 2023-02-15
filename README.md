@@ -8,12 +8,9 @@
 <!-- https://simpleicons.org/ -->
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim" title="assafsf"/>
-    asfsdfsa
-  </a>
-</p>
+
+<img src="https://skillicons.dev/icons?i=vim" title="assafsf"/>asfsdfsa
+
 
 
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=##0690FA" alt="C logo" title="C" height="25" /></span>&nbsp;
