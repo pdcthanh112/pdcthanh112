@@ -7,7 +7,7 @@
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/C++-282C34?logo='c++'&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=FF7A00" alt="Java logo" title="Java" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Hibernate-282C34?logo=hibernate&logoColor=59666C" alt="Hibernate logo" title="Hibernate" height="25" /></span>&nbsp;
@@ -47,7 +47,7 @@
 
 <span><img src="https://img.shields.io/badge/Microsoft Azure-282C34?logo=microsoftazure&logoColor=0078D4" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FF9900" alt="AWS logo" title="AWS" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Digital Ocean-282C34?logo=digitalocean&logoColor=FF9900" alt="Digital Ocean logo" title="Digital Ocean" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Digital Ocean-282C34?logo=digitalocean&logoColor=0080FF" alt="Digital Ocean logo" title="Digital Ocean" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" alt="Netlify logo" title="Netlify" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>&nbsp;
 
@@ -65,7 +65,7 @@
 <span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab" height="25" /></span>&nbsp;
 
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Visual Studio-282C34?logo=visualstudio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Eclipse IDE-282C34?logo=eclipseide&logoColor=2C2255" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/IntelliJ IDEA-282C34?logo=intelliJIDEA&logoColor=4B32C3" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /></span>&nbsp;
