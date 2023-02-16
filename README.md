@@ -23,7 +23,7 @@
 <span><img src="https://img.shields.io/badge/NestJS-282C34?logo=NestJS&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/NextJS-282C34?logo=NextJS&logoColor=000000" alt="NextJS logo" title="NextJS" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/NextJS-282C34?logo=next.js&logoColor=000000" alt="NextJS logo" title="NextJS" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=DD0031" alt="Angular logo" title="Angular" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/VueJS-282C34?logo=vue.js&logoColor=4FC08D" alt="VueJS logo" title="VueJS" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/RestAPI-282C34?logo=fastapi&logoColor=13AFF0" alt="RestAPI logo" title="RestAPI" height="25" /></span>&nbsp;
