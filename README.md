@@ -7,7 +7,7 @@
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/><br/>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/>
 
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=FF7A00" alt="Java logo" title="Java" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Hibernate-282C34?logo=hibernate&logoColor=59666C" alt="Hibernate logo" title="Hibernate" height="25" /></span>&nbsp;
