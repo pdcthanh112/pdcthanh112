@@ -7,7 +7,7 @@
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;<br/>
 
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=FF7A00" alt="Java logo" title="Java" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Hibernate-282C34?logo=hibernate&logoColor=59666C" alt="Hibernate logo" title="Hibernate" height="25" /></span>&nbsp;
@@ -51,6 +51,10 @@
 <span><img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" alt="Netlify logo" title="Netlify" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>&nbsp;
 
+<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Kali Linux-282C34?logo=kalilinux&logoColor=557C94" alt="Kali Linux logo" title="Kali Linux" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu&logoColor=E95420" alt="Ubuntu logo" title="Ubuntu" height="25" /></span>&nbsp;
+
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Microservice-282C34?logo=amazonecs&logoColor=#DC382D" alt="Microservice logo" title="Microservice" height="25" /></span>&nbsp;
@@ -62,7 +66,7 @@
 <span><img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex&logoColor=008080" alt="LaTeX logo" title="LaTeX" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /></span>&nbsp;<br/>
+<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>&nbsp;
