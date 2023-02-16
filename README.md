@@ -7,7 +7,7 @@
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo='c++'&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=c&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=FF7A00" alt="Java logo" title="Java" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Hibernate-282C34?logo=hibernate&logoColor=59666C" alt="Hibernate logo" title="Hibernate" height="25" /></span>&nbsp;
@@ -75,7 +75,7 @@
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Jira Software-282C34?logo=jirasoftware&logoColor=0052CC" alt="Jira Software logo" title="Jira Software" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Jenkins-282C34?logo=J=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>&nbsp;<br/>
 
 <span><img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" alt="Selenium logo" title="Selenium" height="25" /></span>&nbsp;
