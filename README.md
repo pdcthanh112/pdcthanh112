@@ -62,7 +62,7 @@
 <span><img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex&logoColor=008080" alt="LaTeX logo" title="LaTeX" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /></span>&nbsp;<br/>
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab" height="25" /></span>&nbsp;
 
 <span><img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>&nbsp;
