@@ -13,7 +13,7 @@
 <span><img src="https://img.shields.io/badge/Hibernate-282C34?logo=hibernate&logoColor=59666C" alt="Hibernate logo" title="Hibernate" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" alt="Spring logo" title="Spring" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Spring Boot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Spring Sercurity-282C34?logo=springsercurity&logoColor=6DB33F" alt="Spring Sercurity logo" title="Spring Sercurity" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Spring Sercurity-282C34?logo=springSecurity&logoColor=6DB33F" alt="Spring Sercurity logo" title="Spring Sercurity" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Apache Maven-282C34?logo=apachemaven&logoColor=C71A36" alt="Apache Maven logo" title="Apache Maven" height="25" /></span>&nbsp;<br/>
 
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
