@@ -20,8 +20,12 @@
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/NestJS-282C34?logo=NestJS&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/NextJS-282C34?logo=NextJS&logoColor=000000" alt="NextJS logo" title="NextJS" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=DD0031" alt="Angular logo" title="Angular" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/VueJS-282C34?logo=VueJS&logoColor=4FC08D" alt="VueJS logo" title="VueJS" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/RestAPI-282C34?logo=fastapi&logoColor=13AFF0" alt="RestAPI logo" title="RestAPI" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphQL&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /></span>&nbsp;<br/>
 
