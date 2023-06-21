@@ -28,7 +28,7 @@
 <!--<span><img src="https://img.shields.io/badge/VueJS-282C34?logo=vue.js&logoColor=4FC08D" alt="VueJS logo" title="VueJS" height="25" /></span>&nbsp;-->
 <span><img src="https://img.shields.io/badge/RestAPI-282C34?logo=fastapi&logoColor=13AFF0" alt="RestAPI logo" title="RestAPI" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphQL&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /></span>&nbsp;<br/>
-
+<!--
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=Jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" alt="Go logo" title="Go" height="25" /></span>&nbsp;
@@ -36,7 +36,7 @@
 
 <span><img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /></span>&nbsp;
-
+-->
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>&nbsp;
