@@ -87,6 +87,8 @@
 <span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>&nbsp;<br/>
 
 <span><img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" alt="Selenium logo" title="Selenium" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Storybook-282C34?logo=storybook&logoColor=FF4785" alt="Storybook logo" title="Storybook" height="25" /></span>&nbsp;
+
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
