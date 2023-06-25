@@ -75,7 +75,6 @@
 
 <span><img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Visual Studio-282C34?logo=visualstudio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>&nbsp;
-</span>&nbsp;
 <span><img src="https://img.shields.io/badge/IntelliJ IDEA-282C34?logo=intelliJIDEA&logoColor=4B32C3" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Android Studio-282C34?logo=androidstudio&logoColor=#3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/RStudio-282C34?logo=rstudio&logoColor=75AADB" alt="RStudio logo" title="RStudio" height="25" /></span>&nbsp;<br/>
